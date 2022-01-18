@@ -1,0 +1,5 @@
+starter/terraform/.terraform.lock.hcl
+starter/terraform/.terraform/terraform.tfstate
+starter/terraform/.terraform/modules/modules.json
+starter/terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/3.72.0/linux_amd64/terraform-provider-aws_v3.72.0_x5
+starter/terraform/.terraform/providers/registry.terraform.io/hashicorp/kubernetes/2.7.1/linux_amd64/terraform-provider-kubernetes_v2.7.1_x5

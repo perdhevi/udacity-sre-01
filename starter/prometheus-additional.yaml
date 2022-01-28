@@ -4,7 +4,7 @@
     module: [http_2xx]
   static_configs:
     - targets:
-      - http://3.142.184.6
+      - http://3.129.87.89
   relabel_configs:
   - source_labels: [__address__]
     target_label: __param_target
